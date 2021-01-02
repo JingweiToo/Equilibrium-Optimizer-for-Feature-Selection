@@ -10,6 +10,7 @@
 * *feat*     : feature vector ( Instances *x* Features )
 * *label*    : label vector ( Instances *x* 1 )
 * *N*        : number of solutions
+* *max_Iter* : maximum number of iterations
 * *a1*       : Parameter 
 * *a2*       : Parameter 
 * *GP*       : Generation rate control parameter 
